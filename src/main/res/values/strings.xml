@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pocket Wise</string>
+    <string-array name="category_options">
+        <item>Job</item>
+        <item>Transportation</item>
+        <item>Foods</item>
+        <item>Clothes</item>
+        <item>House</item>
+    </string-array>
+</resources>
